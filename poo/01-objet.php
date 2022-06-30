@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="fr">
   <head>
-    <title>Introduction-cours programmation orientée objet</title>
+    <title>Objet-cours programmation orientée objet</title>
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -15,8 +15,7 @@
       <div class="container">
         <h1 class="display-3">POO : La programmation orientée objet</h1>
         <p class="lead text-center mt-3"> Introduction</</p>
-      </div>
-    </div>
+   
 
      <div class="contanier">
       <div class="row">
@@ -40,6 +39,9 @@
          <h2 class="text-center"> Les méthodes</h2>
          <p>Comme nous en avons parlé au dessus, les classe peuvent aussi contenir des methodes.Ces derniéres sont en effet des fonctions,appelées méthode dans le cadre de la POO. Elles ont donc la même nomenclature qu'en procédural :<code>nomMethode();</code></p>
          </div>
+
+         </div>
+     </div>
      
     <!-- Bootstrap JavaScript Libraries -->
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.5/dist/umd/popper.min.js" integrity="sha384-Xe+8cL9oJa6tN/veChSP7q+mnSPaj5Bcu9mPX5F5xIGE0DVittaqT5lorf0EI7Vk" crossorigin="anonymous"></script>

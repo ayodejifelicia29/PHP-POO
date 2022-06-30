@@ -14,9 +14,7 @@
     <div class="p-5 bg-light">
       <div class="container">
         <h1 class="display-3">POO : La programmation orientée objet</h1>
-        <p class="lead text-center mt-3"> Introduction</</p>
-      </div>
-    </div>
+   
 
      <div class="contanier">
       <div class="row">
@@ -54,6 +52,9 @@
          <p>Cette approche est tout de même moins intuitive que l'approche procédurale. La POO oblige en effet à réfléchir et modéliser avant de programmer</p>
         </div>
      </div><!-- fin de la col-12 -->
+     <p class="lead text-center mt-3"> Introduction</</p>
+      </div>
+    </div>
      
     <!-- Bootstrap JavaScript Libraries -->
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.5/dist/umd/popper.min.js" integrity="sha384-Xe+8cL9oJa6tN/veChSP7q+mnSPaj5Bcu9mPX5F5xIGE0DVittaqT5lorf0EI7Vk" crossorigin="anonymous"></script>
