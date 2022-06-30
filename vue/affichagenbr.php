@@ -11,7 +11,7 @@ echo "<p>" . $nbr2 . "</p>";
 
 //$nbr3 = new Number;
 //$nbr3 ->sansZero(5);
-//echo $nmbr3;
+//echo "<p>". $nmbr3 . "</p>";
 
 $nbr4= Number ::avecEuro(150);
 echo "<p>" .$nbr4 . "</p>";
