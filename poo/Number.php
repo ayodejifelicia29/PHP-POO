@@ -21,10 +21,6 @@ return $chiffre;
 }
 }
 
-
-
-
-
 // public function sansZero($chiffre)
 // {
     

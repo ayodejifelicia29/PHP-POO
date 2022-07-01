@@ -10,14 +10,14 @@ class Number{
             return $chiffre;
         }
     }
-    public static function sansZero ($chiffre)
+   /*  public static function sansZero ($chiffre)
     {
         if($chiffre < 10){
             return '0'.$chiffre;
         }else{
             return $chiffre;
         }
-    } 
+    }  */
  
 
  public static function avecEuro($chiffre)

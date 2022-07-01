@@ -24,7 +24,8 @@
         <h3 class="text-secondary text-center">La visibilité <code>public</code> </h3>
           <p>La visibilité public est celle que l'on utilise par défaut au sein de nos classes. Elle va permettre de définir qu'une propriété ou une méthode est accessible dans la classe en faisant  <code>$this</code> mais aussi sur une page externe lorsque l'on fait un require de notre classe , comme on a pu le faire pour accéder à nos differents fichiers.
          </p>
-          <h3 class="text-secondary text-center">La visibilité <code>private</code> </h3>
+         
+         <h3 class="text-secondary text-center">La visibilité <code>private</code> </h3>
           <p>La visibilité privéé ou  <code>private</code> signifie que la propriété est accesible dans la classe mais pas en dehors, on ne pourra donc faire appel directement à notre propiété dans une page externe. Cette pour cette raison que les  <code>getters</code> et <code>setters</code> font leur apparition. Les getters vont permettre d'afficher le contenu d'une propriété ayant la visibilité private.La construction de ce gette, qui va permettre aux autres développeurs de savoir ce qu'ils peuvent changer ou pas. Elle se fera toujours de la même façon : <code>getNomvariable</code>suivi de <code>return $this-> nomvariable</code>. on verra cela plus en detail lorsque l'on abordera Symfony. </p>
 
           <h3 class="text-secondary text-center">La visibilité <code>protected</code> </h3>
